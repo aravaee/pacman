@@ -5,3 +5,7 @@ Pacman lives in a shiny blue world of twisting corridors and tasty round treats.
   - Uninformed, Informed, and Adversial Search
   - Expectimax Search and Utilities
   - Constraint Satisfaction Problems
+
+## Requirements
+- python 3.6+
+- tkniter module
