@@ -11,4 +11,4 @@ Pacman lives in a shiny blue world of twisting corridors and tasty round treats.
 - tkniter module
 
 ### Credits
-<b>The projects were developed by John DeNero, Dan Klein, Pieter Abbeel, and many others.</b>(https://inst.eecs.berkeley.edu/~cs188/sp19/)
+The [projects](https://inst.eecs.berkeley.edu/~cs188/sp19/) were developed by John DeNero, Dan Klein, Pieter Abbeel, and many others.
